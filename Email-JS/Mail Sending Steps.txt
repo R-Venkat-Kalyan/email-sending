@@ -16,5 +16,5 @@ Steps to send emails using html files through email js:
 	- PUBLIC KEY
 	- SERVICE ID
 	- TEMPLTE ID
--> By replacing this fields in below code you can send mails through the form submission:
+-> By replacing this fields in below code you can send mails through the form submission.
 -> code link: https://github.com/R-Venkat-Kalyan/email-sending/blob/main/Email-JS/Contact_Form.html
