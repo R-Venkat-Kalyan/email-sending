@@ -1,0 +1,20 @@
+EmailJS is a JavaScript library that simplifies the process of sending emails from client-side code. 
+Here are some key points about EmailJS:
+
+-> EmailJS allows sending emails directly from the client side (browser), eliminating the need for a server-side implementation.
+-> It uses a template-based approach, where you can create email templates with placeholders for dynamic content.
+-> EmailJS integrates seamlessly with HTML, allowing you to embed email templates directly into your web pages.
+-> EmailJS typically offers different subscription plans, including free and paid options, with varying levels of usage limits and features.
+
+Steps to send emails using html files through email js:
+
+-> open this URL to access email Js: https://www.emailjs.com/
+-> create a account using your gmail (outlook is preferred mostly)
+-> Then you access your email js account.
+-> There will be a default email sending template is available, you can customize it also.
+-> You need only below three values from email js account to send emails:
+	- User Id or Public Key
+	- EmailJs Service ID
+	- Email Template ID
+-> By replacing this fields in below code you can send mails through the form submission:
+-> code link: 
