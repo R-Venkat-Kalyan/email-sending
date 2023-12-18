@@ -13,8 +13,8 @@ Steps to send emails using html files through email js:
 -> Then you access your email js account.
 -> There will be a default email sending template is available, you can customize it also.
 -> You need only below three values from email js account to send emails:
-	- User Id or Public Key
-	- EmailJs Service ID
-	- Email Template ID
+	- PUBLIC KEY
+	- SERVICE ID
+	- TEMPLTE ID
 -> By replacing this fields in below code you can send mails through the form submission:
--> code link: 
+-> code link: https://github.com/R-Venkat-Kalyan/email-sending/blob/main/Email-JS/Contact_Form.html
