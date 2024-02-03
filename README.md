@@ -16,14 +16,15 @@ This repository provides two implementations for sending emails: one using JavaS
 
 ### JavaScript Email Sender
 
-1. Navigate to the `javascript-email-sender` folder.
+1. Navigate to the `Email-JS` folder.
 2. Open the `index.html` file in your preferred code editor or browser.
-3. Modify the JavaScript code in `script.js` to configure the email sender according to your requirements.
-4. Open the `index.html` file in a web browser to use the email sender.
+3. Modify the JavaScript code in `<script>` to configure the email sender according to your requirements.
+4. Open the `Contact_Form.html` file in a web browser to use the email sender.
+5. For any regference, refer Mail Sendiing Steps.txt.
 
 ### Java Spring Boot Email Sender
 
-1. Navigate to the `spring-boot-email-sender` folder.
+1. Navigate to the `Spring Boot - Java Simple Mail Sending` folder.
 2. Open the project in your favorite IDE.
 3. Configure the email settings and SMTP server details in the `application.properties` file.
 4. Build and run the Spring Boot application.
