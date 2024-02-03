@@ -51,6 +51,3 @@ spring.mail.password=your_password
 
 Contributions are welcome! If you have any suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
