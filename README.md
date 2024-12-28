@@ -35,7 +35,12 @@ This repository provides multiple implementations for sending emails, including 
 
 1. Navigate to the `Spring Boot - Java Simple Mail Sending` folder.
 2. Open the project in your favorite IDE.
-3. Configure the email settings and SMTP server details in the `application.properties` file.
+3. Update the following email settings in the `application.properties` file with your credentials:
+
+   ```properties
+   spring.mail.username = YOUR MAIL ID
+   spring.mail.password = YOUR PASSWORD
+   ```
 4. Build and run the Spring Boot application.
 5. Use the provided API endpoints to send emails programmatically.
 
@@ -45,17 +50,11 @@ This repository provides multiple implementations for sending emails, including 
 
 1. Navigate to the `outlook_mail_example` folder.
 2. Open the project in your IDE (such as IntelliJ IDEA or Eclipse).
-3. Configure the email settings in the `application.properties` file with the following details:
+3. Update the following email settings in the `application.properties` file with your credentials:
 
    ```properties
-   # Outlook configurations
-   spring.mail.host=smtp-mail.outlook.com
-   spring.mail.port=587
-   spring.mail.password= YOUR PASSWORD
-   spring.mail.username= YOUR OUTLOOK MAIL
-   spring.mail.properties.mail.store.protocol=pop3
-   spring.mail.properties.mail.smtp.starttls.enable=true
-   spring.mail.properties.mail.smpt.auth=true
+   spring.mail.password = YOUR PASSWORD
+   spring.mail.username = YOUR OUTLOOK MAIL
    ```
 
 4. **Important**: Ensure that the Outlook email account has two-step verification enabled.
