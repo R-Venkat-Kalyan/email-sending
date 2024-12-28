@@ -1,0 +1,32 @@
+body {
+	background: linear-gradient(to right, #6a11cb, #2575fc);
+	color: #fff;
+	font-family: 'Arial', sans-serif;
+}
+
+h1,
+h3 {
+	color: #f8f9fa;
+}
+
+.card {
+	background-color: #fff;
+	color: #333;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button.btn-primary {
+	background-color: #6a11cb;
+	border-color: #6a11cb;
+}
+
+button.btn-primary:hover {
+	background-color: #2575fc;
+	border-color: #2575fc;
+}
+
+.alert {
+	background-color: #6a11cb;
+	color: #f8f9fa;
+}
